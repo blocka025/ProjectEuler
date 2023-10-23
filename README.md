@@ -4,3 +4,5 @@ From https://projecteuler.net/about, "Project Euler is a series of challenging m
 
 These are my solutions to the problems that can be found at https://projecteuler.net/
 Each script is designed to print the answer to the problem as a single line of output
+
+You can find my account with this key: 1819468_Ur5VaM7HZGCjmfLi1kDBgjzILDXGkXm1
